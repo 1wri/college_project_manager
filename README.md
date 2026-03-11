@@ -1,0 +1,2 @@
+# college_project_manager
+科研课题项目管理系统，基于SpringBoot+Vue的前后端分离的科研课题项目管理系统，java项目
